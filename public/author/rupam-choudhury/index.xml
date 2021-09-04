@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rupam Choudhury | Centre for Consciousness Studies</title>
+    <link>/author/rupam-choudhury/</link>
+      <atom:link href="/author/rupam-choudhury/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rupam Choudhury</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rupam Choudhury</title>
+      <link>/author/rupam-choudhury/</link>
+    </image>
+    
+    <item>
+      <title>NIH-3T3 fibroblast transplants enhance host regeneration and improve spatial learning in ventral subicular lesioned rats</title>
+      <link>/publication/journal-article/paper_56/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper_56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transplantation of Hippocampal Cell Lines Restore Spatial Learning in Rats With Ventral Subicular Lesions</title>
+      <link>/publication/journal-article/paper_52/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper_52/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bindu B | Centre for Consciousness Studies</title>
+    <link>/author/bindu-b/</link>
+      <atom:link href="/author/bindu-b/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bindu B</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bindu B</title>
+      <link>/author/bindu-b/</link>
+    </image>
+    
+    <item>
+      <title>Short-term exposure to an enriched environment enhances dendritic branching but not brain-derived neurotrophic factor expression in the hippocampus of rats with ventral subicular lesions</title>
+      <link>/publication/journal-article/paper_50/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper_50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post insult enriched housing improves the 8-arm radial maze performance but not the Morris water maze task in ventral subicular lesioned rats</title>
+      <link>/publication/journal-article/paper_46/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper_46/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

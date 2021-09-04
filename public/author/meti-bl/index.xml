@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meti BL | Centre for Consciousness Studies</title>
+    <link>/author/meti-bl/</link>
+      <atom:link href="/author/meti-bl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meti BL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Meti BL</title>
+      <link>/author/meti-bl/</link>
+    </image>
+    
+    <item>
+      <title>Ventral subicular lesion alters rhythmical slow wave activity (θ) of CA1 area of hippocampus and entorhinal cortex</title>
+      <link>/publication/journal-article/paper_42/</link>
+      <pubDate>Mon, 01 May 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper_42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alpha phenyl butyl nitrone (PBN) protects rat cortical cultures from aluminium cytotoxicity</title>
+      <link>/publication/journal-article/paper_40/</link>
+      <pubDate>Sat, 01 May 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper_40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial memory impairment in ventral subicular lesioned rats</title>
+      <link>/publication/journal-article/paper_39/</link>
+      <pubDate>Sat, 01 May 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper_39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(-)-Deprenyl attenuates spinal motor neuron degeneration and associated locomotor deficits in rats subjected to spinal cord ischemia</title>
+      <link>/publication/journal-article/paper_37/</link>
+      <pubDate>Fri, 01 May 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper_37/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

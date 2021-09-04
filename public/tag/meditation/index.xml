@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meditation | Centre for Consciousness Studies</title>
+    <link>/tag/meditation/</link>
+      <atom:link href="/tag/meditation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meditation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Meditation</title>
+      <link>/tag/meditation/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/project/heartfulness/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/heartfulness/</guid>
+      <description>&lt;p&gt;To be updated&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/saketh/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/saketh/</guid>
+      <description>&lt;p&gt;To be updated&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/satyam_yoga/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/satyam_yoga/</guid>
+      <description>&lt;p&gt;To be updated&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/vip_fmri/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/vip_fmri/</guid>
+      <description>&lt;p&gt;To be updated&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

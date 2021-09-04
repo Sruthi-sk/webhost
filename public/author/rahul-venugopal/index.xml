@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahul Venugopal | Centre for Consciousness Studies</title>
+    <link>/author/rahul-venugopal/</link>
+      <atom:link href="/author/rahul-venugopal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rahul Venugopal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rahul Venugopal</title>
+      <link>/author/rahul-venugopal/</link>
+    </image>
+    
+    <item>
+      <title>Beyond hypnograms - Assessing sleep stability using acoustic and electrical stimulation</title>
+      <link>/publication/journal-article/paper_8/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissociating meditation proficiency and experience dependent EEG changes during traditional Vipassana meditation practice</title>
+      <link>/publication/journal-article/paper_3/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper_3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

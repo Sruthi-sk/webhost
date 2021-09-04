@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-09-27T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2021-09-27T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2021-09-27T09:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bindu-m-kutty/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/full-bibliography/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shankaranarayana-rao-bs/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_59/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/srikumar-bn/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/subhadeep-dutta-gupta/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/prof-bindu-m-kutty/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ajay-kumar-nair/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/arun-sasidharan/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/john-p-john/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ratna-jyothi/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ravindra-panth/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/seema-mehrotra/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_1/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_6/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_7/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gulshan-kumar/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pramod-k-pal/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/raghasudha-b/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ravi-yadav/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sanjeev-jain/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/seshagiri-dv/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_5/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_8/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chetan-mukundan/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rahul-venugopal/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sumit-sharma/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vrinda-marigowda/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_3/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/prasanta-kumar-ghosh/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ratna-jyothi-kakumanu/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_4/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_2/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_9/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/amuu-k-lukose/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/aparna-s/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_12/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_15/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_10/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_14/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_13/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_11/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kumaresan-ud/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kumari-anshu/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/laxmi-t-rao/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/philip-m/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sarada-subramanian/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sobha-srinath/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sowmya-madhavadas/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anupriya-verma/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_19/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/basavaraj-tubaki/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cr-chandrashekar/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d-sudhakar/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gs-lavekar/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/karuna-datta/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_16/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_20/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/neethi-prem/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nirmala-maruthai/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p-hegde/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ravindra-pn/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_18/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sulekha-srikumar/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sunao-uchida/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_17/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tn-sathyaprabha/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vijay-kapgal-v/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/arathi/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/gulshan/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/heartfulness/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/neethi/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/rahul/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/saketh/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/satyam_vip/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/satyam_yoga/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/shweta/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/subhu/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/vip_fmri/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/vrinda/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/circadian/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/meditation/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sleep/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ammu-k-lukose/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_21/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/harsha-halahalli/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-nalini/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_26/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_23/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anil-sp/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bt-chindanda-murthy/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chandrasekhar-sagar/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chittaranjan-andrade/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_24/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_22/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dayalan-sampath/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_27/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_25/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_28/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/govindan-rangarajan/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hegde-p/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jayakrishnan-hr/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/khaleel-n/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/meghana-adoor/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mu-sujan/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_29/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/raghavendra-rao/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ravikiran-kisan/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ravindranath-roopa/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sabitha-kr/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shweta-rastogi/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/smitha-js/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sumantra-chattarji/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tr-raju/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/unni-s/</loc>
+    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/template/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/testing/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_57/</loc>
+    <lastmod>2012-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_31/</loc>
+    <lastmod>2012-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lavekar-gs/</loc>
+    <lastmod>2012-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_30/</loc>
+    <lastmod>2012-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tns-prabha/</loc>
+    <lastmod>2012-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_58/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hr-jayakrishnan/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kalaivani-p/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maulishree-agrahari/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_56/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/phalguni-a-alladi/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rekha-j/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rupam-choudhury/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/veena-lr/</loc>
+    <lastmod>2011-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/durgalakshmi-r/</loc>
+    <lastmod>2010-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_54/</loc>
+    <lastmod>2010-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_55/</loc>
+    <lastmod>2010-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nityananda-pradhan/</loc>
+    <lastmod>2010-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_53/</loc>
+    <lastmod>2010-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vaishnavi-s/</loc>
+    <lastmod>2010-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anandh-dhanushkodi/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/geetha-m-swamilingiah/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lr-veena/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-nirmala/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mm-panicker/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sridhara-chakravarthy/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_52/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vani-p-kalai/</loc>
+    <lastmod>2009-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chaplot-s/</loc>
+    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/singh-k/</loc>
+    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_51/</loc>
+    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bindu-b/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bindu-balakrishnan/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_49/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mansooralikhan-bm/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/phalguni-alladi/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_50/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_48/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/appajachar-vedamurthachar/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_47/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/harish-m/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nanjappa-k/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rao-s/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shalam-m/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thennarasu-k/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_46/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ab-taly/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bindu-pn/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/devi-l/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/diwakar-l/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gr-arunodaya/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jerry-me-kovoor/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jn-panicker/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_43/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-netravathi/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/madhav-tr/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_44/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/prabhu-bm/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ramakrishna-t/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-sinha/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_45/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sreekumaran-e/</loc>
+    <lastmod>2003-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bm-prabhu/</loc>
+    <lastmod>2000-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_41/</loc>
+    <lastmod>2000-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/meti-bl/</loc>
+    <lastmod>2000-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sm-ravi/</loc>
+    <lastmod>2000-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_42/</loc>
+    <lastmod>2000-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_40/</loc>
+    <lastmod>1999-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-munirathinam/</loc>
+    <lastmod>1999-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_39/</loc>
+    <lastmod>1999-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_37/</loc>
+    <lastmod>1998-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/b-kiran/</loc>
+    <lastmod>1998-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lakshmana-mk/</loc>
+    <lastmod>1998-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ravikumar-r/</loc>
+    <lastmod>1998-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_38/</loc>
+    <lastmod>1998-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_36/</loc>
+    <lastmod>1992-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pn-bindu/</loc>
+    <lastmod>1992-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t-desiraju/</loc>
+    <lastmod>1992-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_35/</loc>
+    <lastmod>1990-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_34/</loc>
+    <lastmod>1988-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_33/</loc>
+    <lastmod>1986-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/t-ramakrishna/</loc>
+    <lastmod>1986-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/paper_32/</loc>
+    <lastmod>1983-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dr-ajay-kumar-nair-phd-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-arathi-radhakrishnan/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-arun/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-basavaraj-tubaki-phd-2011/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-gulshan-kumar/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-harsha-halahalli-phd-2013/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-neethi-prem/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-nirmala-m-phd-2014/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-pn-ravindra/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-ramajayam-g/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-ratna-jyothi-kakumanu-phd-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-ravi-kiran-kisan-phd-2013/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-shweta-rastogi/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-sulekha-s-phd-2005/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/dr-vrinda-m/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jimisha/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jini-joseph/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/rahul-venugopal/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/ramachandra/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/saketh-m/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/subhadeep-dutta-gupta/</loc>
+  </url>
+  
+</urlset>
